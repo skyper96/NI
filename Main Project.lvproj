@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="17008000">
+<Project Type="Project" LVVersion="18008000">
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -13,9 +13,7 @@
 		<Item Name="lab2_2.vi" Type="VI" URL="../lab2_2.vi"/>
 		<Item Name="lab2_3.vi" Type="VI" URL="../lab2_3.vi"/>
 		<Item Name="lab2_4.vi" Type="VI" URL="../lab2_4.vi"/>
-		<Item Name="Dependencies" Type="Dependencies">
-			<Item Name="Simulate Temperature Acquisition.vi" Type="VI" URL="/C/Program Files (x86)/National Instruments/LabVIEW 2017/examples/Industry Applications/Temperature Monitoring/support/Simulate Temperature Acquisition.vi"/>
-		</Item>
+		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 </Project>
